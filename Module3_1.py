@@ -1,5 +1,6 @@
 class Product:
-    "This class describes a product"
+    "This class describes a product. Add commit"
+    
     def __init__ (self, name: str, price:float) -> None:
         self.name = name
         self.price = price
